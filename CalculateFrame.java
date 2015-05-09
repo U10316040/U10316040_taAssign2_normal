@@ -38,12 +38,12 @@ public class CalculateFrame {
 		
 		//Circle
 		Circle = new JLabel("Circle:");
-		Circle.setFont(new Font("微軟正黑體", Font.PLAIN, 13)); //set font
+		Circle.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13)); //set font
 		Circle.setBounds(38, 29, 46, 15);
 		frame.getContentPane().add(Circle);
 		
 		radius = new JLabel("Radius:");
-		radius.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		radius.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		radius.setBounds(54, 64, 46, 15);
 		frame.getContentPane().add(radius);
 		
@@ -53,12 +53,12 @@ public class CalculateFrame {
 		InputR.setColumns(10);
 		
 		area = new JLabel("The area is:");
-		area.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		area.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		area.setBounds(54, 106, 81, 15);
 		frame.getContentPane().add(area);
 		
 		perimeter = new JLabel("The perimeter is:");
-		perimeter.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		perimeter.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		perimeter.setBounds(54, 147, 107, 15);
 		frame.getContentPane().add(perimeter);
 		
@@ -109,22 +109,22 @@ public class CalculateFrame {
 		frame.getContentPane().add(remove);
 		
 		RegularTriangle = new JLabel("Regular Triangle");
-		RegularTriangle.setFont(new Font("微軟正黑體", Font.PLAIN, 12));
+		RegularTriangle.setFont(new Font("Microsoft YaHei", Font.PLAIN, 12));
 		RegularTriangle.setBounds(38, 207, 123, 23);
 		frame.getContentPane().add(RegularTriangle);
 		
 		Side = new JLabel("Side:");
-		Side.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		Side.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		Side.setBounds(54, 244, 46, 15);
 		frame.getContentPane().add(Side);
 		
 		area2 = new JLabel("The area is:");
-		area2.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		area2.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		area2.setBounds(54, 282, 81, 15);
 		frame.getContentPane().add(area2);
 		
 		perimeter2 = new JLabel("The perimeter is:");
-		perimeter2.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		perimeter2.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		perimeter2.setBounds(54, 325, 107, 15);
 		frame.getContentPane().add(perimeter2);
 		
@@ -181,27 +181,27 @@ public class CalculateFrame {
 		
 		//Rectangle
 		Rectangle = new JLabel("Rectangle");
-		Rectangle.setFont(new Font("微軟正黑體", Font.PLAIN, 12));
+		Rectangle.setFont(new Font("Microsoft YaHei", Font.PLAIN, 12));
 		Rectangle.setBounds(38, 370, 123, 23);
 		frame.getContentPane().add(Rectangle);
 		
 		length = new JLabel("length:");
-		length.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		length.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		length.setBounds(54, 407, 46, 15);
 		frame.getContentPane().add(length);
 		
 		width = new JLabel("width:");
-		width.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		width.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		width.setBounds(210, 407, 46, 15);
 		frame.getContentPane().add(width);
 		
 		area3 = new JLabel("The area is:");
-		area3.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		area3.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		area3.setBounds(54, 449, 81, 15);
 		frame.getContentPane().add(area3);
 		
 		perimeter3 = new JLabel("The perimeter is:");
-		perimeter3.setFont(new Font("微軟正黑體", Font.PLAIN, 13));
+		perimeter3.setFont(new Font("Microsoft YaHei", Font.PLAIN, 13));
 		perimeter3.setBounds(54, 492, 107, 15);
 		frame.getContentPane().add(perimeter3);
 		
